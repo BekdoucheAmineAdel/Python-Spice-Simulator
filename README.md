@@ -1,7 +1,7 @@
 # Python SPICE Simulator (Pending)
 
 ## Overview
-The Python SPICE Simulator Project is a tool designed to simulate electronic circuits using SPICE (Simulation Program with Integrated Circuit Emphasis) models. This simulator allows users to analyze and visualize the behavior of electronic components and circuits. (I was intrested in during my first year in Masters Degree)
+The Python SPICE Simulator Project is a tool designed to simulate electronic circuits using SPICE (Simulation Program with Integrated Circuit Emphasis) models. This simulator allows users to analyze and visualize the behavior of electronic components and circuits. I was interested in developing this tool during my first year of my Master's Degree in Electronic Sensors and IoT.
 
 ## Features
 - **Circuit Simulation**: Simulate various electronic circuits including resistors, capacitors, inductors, diodes, and transistors.
